@@ -61,11 +61,11 @@
 
 .u-section-1 .u-layout-wrap-2 {
   width: 1266px;
-  margin: 0 auto 34px;
+  margin: 0 auto 60px;
 }
 
 .u-section-1 .u-image-2 {
-  min-height: 526px;
+  min-height: 358px;
   background-image: url("images/66544ad1-d276-4457-8ce3-a94a4db353c311.jpg");
   background-position: 50% 50%;
 }
@@ -75,7 +75,7 @@
 }
 
 .u-section-1 .u-image-3 {
-  min-height: 526px;
+  min-height: 358px;
   background-image: url("images/884c0882-0fda-49b0-93f4-481f6539d36c.jpg");
   background-position: 50% 50%;
 }
@@ -138,9 +138,8 @@
   }
 
   .u-section-1 .u-layout-wrap-2 {
-    margin-top: 72px;
-    margin-bottom: 54px;
     width: 940px;
+    margin-top: 10px;
   }
 
   .u-section-1 .u-image-2 {
@@ -154,7 +153,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 {
-    min-height: 2306px;
+    min-height: 2107px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -202,17 +201,17 @@
   }
 
   .u-section-1 .u-layout-wrap-2 {
-    margin-top: -101px;
-    margin-bottom: 60px;
     width: 720px;
+    margin-top: -101px;
+    margin-bottom: 29px;
   }
 
   .u-section-1 .u-image-2 {
-    min-height: 463px;
+    min-height: 402px;
   }
 
   .u-section-1 .u-image-3 {
-    min-height: 462px;
+    min-height: 402px;
   }
 }
 
@@ -702,7 +701,7 @@
 .u-section-3 .u-text-2 {
   font-size: 1rem;
   line-height: 1.8;
-  margin: 20px 18px 0 0;
+  margin: 20px 22px 0 0;
 }
 
 .u-section-3 .u-btn-1 {
@@ -732,7 +731,7 @@
 .u-section-3 .u-text-4 {
   font-size: 1rem;
   line-height: 1.8;
-  margin: 20px 18px 0 0;
+  margin: 20px 22px 0 0;
 }
 
 .u-section-3 .u-btn-2 {
@@ -762,7 +761,7 @@
 .u-section-3 .u-text-6 {
   font-size: 1rem;
   line-height: 1.8;
-  margin: 20px 18px 0 0;
+  margin: 20px 22px 0 0;
 }
 
 .u-section-3 .u-btn-3 {
@@ -792,7 +791,7 @@
 .u-section-3 .u-text-8 {
   font-size: 1rem;
   line-height: 1.8;
-  margin: 20px 18px 0 0;
+  margin: 20px 22px 0 0;
 }
 
 .u-section-3 .u-btn-4 {
@@ -1039,7 +1038,7 @@
 }
 
 .u-section-5 .u-text-1 {
-  margin: 0 18px 0 0;
+  margin: 0 22px 0 0;
 }
 
 .u-section-5 .u-btn-1 {
@@ -1059,7 +1058,7 @@
 
 .u-section-5 .u-text-2 {
   font-size: 3.75rem;
-  margin: 0 3px 0 127px;
+  margin: 0 7px 0 127px;
 }
 
 .u-section-5 .u-layout-cell-4 {
